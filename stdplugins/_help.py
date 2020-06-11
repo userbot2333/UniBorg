@@ -1,6 +1,6 @@
 """**Know Your UniBorg**
 ◇ list of all loaded plugins
-◆ `.helpme`\n
+◆ `.helpme`\l
 ◇ to know Data Center
 ◆ `.dc`\n
 ◇ powered by
